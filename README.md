@@ -88,7 +88,7 @@ In the reference run, vehicle B learns about the hazard **2.4 s before its own c
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dhruxraj&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="[https://streak-stats.demolab.com?user=dhruxraj&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=dhruxraj&theme=tokyonight&hide_border=true)" alt="GitHub streak" />
 
 </div>
 
