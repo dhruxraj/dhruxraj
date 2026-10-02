@@ -78,7 +78,7 @@ In the reference run, vehicle B learns about the hazard **2.4 s before its own c
 
 <br><br>
 
-**Areas:** Deep learning · Computer vision · Signal processing · Embedded systems · Connected vehicles · ROS 2
+**Areas:** Deep learning · Computer vision · Signal processing · Embedded systems · Connected vehicles · ROS 2 · Web Development
 
 </div>
 
