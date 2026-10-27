@@ -30,6 +30,7 @@
 
 | Project | What it does | Built with |
 |---|---|---|
+| 💬 ⁠Cove Messaging | Privacy-focused messaging application featuring end-to-end encrypted text chats, secure key management, real-time messaging, and account recovery | React · TypeScript · Node.js · PostgreSQL · WebSockets · Web Crypto API |
 | 🚗 [**V2V Communication**](https://github.com/dhruxraj/v2v-communication) | Interactive cooperative-driving simulation: blind-corner hazard sharing, message validation, TTC / TTB risk, Path Clearance Score, intent broadcasting, multi-hop relay and route replanning | JavaScript · HTML5 Canvas |
 | 😴 [**Drowsiness Detection**](https://github.com/dhruxraj/drowsiness_detection) | Real-time driver drowsiness detection using computer vision, with an integrated alarm | Python · OpenCV |
 | 🎙️ [**Audio Deepfake Detection**](https://github.com/dhruxraj/audio-deepfake-detection) | Machine-learning model that classifies audio as genuine or machine-generated | Python · ML |
